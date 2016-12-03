@@ -1,5 +1,6 @@
 # SpringMVC
-基于SpringMVC+Spring+Hibernate+Mavan+log4j+junit+Bootstrap
+基于(Base)SpringMVC+Spring+Hibernate+Mavan+log4j+junit+Bootstrap
+A simple user management system to study SpringMVC
 
 开发环境IDE eclipse 
 服务器Tomcat 8.0
